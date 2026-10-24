@@ -1,4 +1,4 @@
-package io.github.maplemods.maplesbeecollection;
+package io.github.maplemods.maplesbeesseasonalvariants;
 
 import net.fabricmc.api.ModInitializer;
 
