@@ -1,9 +1,9 @@
-# Maple's Bee Collection
+# Maple's Bees | Seasonal Variants
 
-Minecraft 26.1.2 | Version 1.1
+Minecraft 26.1.2 | Version 2.0
 
 Download the mod here! :)
 
-CurseForge: https://legacy.curseforge.com/minecraft/mc-mods/maples-bee-collection
+CurseForge: https://curseforge.com/minecraft/mc-mods/maples-bees-seasonal-variants
 
-Modrinth: https://modrinth.com/mod/maples-bee-collection
+Modrinth: https://modrinth.com/mod/maples-bees-seasonal-variants

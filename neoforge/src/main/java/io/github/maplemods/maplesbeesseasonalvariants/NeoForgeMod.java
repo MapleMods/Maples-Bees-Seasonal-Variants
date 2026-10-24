@@ -1,7 +1,7 @@
-package io.github.maplemods.maplesbeecollection;
+package io.github.maplemods.maplesbeesseasonalvariants;
 
 
-import io.github.maplemods.maplesbeecollection.data.Constants;
+import io.github.maplemods.maplesbeesseasonalvariants.data.Constants;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 
