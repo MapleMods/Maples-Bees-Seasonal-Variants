@@ -9,18 +9,18 @@
     ],
     "contact": {
         "homepage": "https://maplesmods.github.io/",
-        "issues": "https://github.com/MapleMods/Maples-Bee-Collection/issues",
-        "sources": "https://github.com/MapleMods/Maples-Bee-Collection"
+        "issues": "https://github.com/MapleMods/Maples-Bees-Seasonal-Variants/issues",
+        "sources": "https://github.com/MapleMods/Maples-Bees-Seasonal-Variants"
     },
     "license": "${license}",
     "icon": "${mod_id}.png",
     "environment": "*",
     "entrypoints": {
         "main": [
-          "io.github.maplemods.maplesbeecollection.FabricMod"
+          "io.github.maplemods.${mod_id}.FabricMod"
         ],
         "client": [
-          "io.github.maplemods.maplesbeecollection.FabricModClient"
+          "io.github.maplemods.${mod_id}.FabricModClient"
         ]
     },
     "mixins": [
@@ -32,7 +32,7 @@
         "fabric-api": "*",
         "minecraft": "~${minecraft_version}",
         "java": ">=${java_version}",
-        "sapling": ">=1.0"
+        "sapling": ">=3.1"
     }
 }
   
